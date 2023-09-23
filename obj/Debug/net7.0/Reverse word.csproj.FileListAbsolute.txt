@@ -1,0 +1,14 @@
+C:\Users\kalle\source\repos\Reverse word\obj\Debug\net7.0\Reverse word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalle\source\repos\Reverse word\obj\Debug\net7.0\Reverse word.AssemblyInfoInputs.cache
+C:\Users\kalle\source\repos\Reverse word\obj\Debug\net7.0\Reverse word.AssemblyInfo.cs
+C:\Users\kalle\source\repos\Reverse word\obj\Debug\net7.0\Reverse word.csproj.CoreCompileInputs.cache
+C:\Users\kalle\source\repos\Reverse word\bin\Debug\net7.0\Reverse word.exe
+C:\Users\kalle\source\repos\Reverse word\bin\Debug\net7.0\Reverse word.deps.json
+C:\Users\kalle\source\repos\Reverse word\bin\Debug\net7.0\Reverse word.runtimeconfig.json
+C:\Users\kalle\source\repos\Reverse word\bin\Debug\net7.0\Reverse word.dll
+C:\Users\kalle\source\repos\Reverse word\bin\Debug\net7.0\Reverse word.pdb
+C:\Users\kalle\source\repos\Reverse word\obj\Debug\net7.0\Reverse word.dll
+C:\Users\kalle\source\repos\Reverse word\obj\Debug\net7.0\refint\Reverse word.dll
+C:\Users\kalle\source\repos\Reverse word\obj\Debug\net7.0\Reverse word.pdb
+C:\Users\kalle\source\repos\Reverse word\obj\Debug\net7.0\Reverse word.genruntimeconfig.cache
+C:\Users\kalle\source\repos\Reverse word\obj\Debug\net7.0\ref\Reverse word.dll
